@@ -1,0 +1,19 @@
+div {
+    text-align: center;
+    color: white;
+   
+}
+
+#contorno {
+
+    
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body {
+    background-image: url(./images/OQ3CWU0.jpg);
+     
+}
